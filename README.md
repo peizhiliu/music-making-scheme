@@ -1,1 +1,1 @@
-# Music Making Scheme
+# Music-Making Scheme
